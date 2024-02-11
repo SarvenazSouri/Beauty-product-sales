@@ -23,7 +23,7 @@ La gestion de la base de données a été facilitée par l'utilisation de <stron
    ```
 4. executer le fichier "ExecuteServer"
 
-##Frontend
+## Frontend
 1. Ouvrire Visual Studio Code
 2. modifier le port partout ou il y a un lien http pour le localhost dans le dossier "component"
 3. lancer le projet
@@ -40,5 +40,3 @@ La gestion de la base de données a été facilitée par l'utilisation de <stron
     ```bash
     npm run dev
     ```
-. ئخ
-9. ئخیه
